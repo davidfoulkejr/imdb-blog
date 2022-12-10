@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "apollo-server-express": "^2.2.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "graphql": "^14.1.1",
     "mongoose": "^5.3.4",
     "neo4j-driver": "^1.7.1",
